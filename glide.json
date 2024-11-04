@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Glide ID Generator",
+    "description": "Generates a formatted 16-character key from a company name by inserting random characters.",
+    "author": "Your Name <your-email@example.com>",
+    "params": [
+      {
+        "name": "companyName",
+        "displayName": "Company Name",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
